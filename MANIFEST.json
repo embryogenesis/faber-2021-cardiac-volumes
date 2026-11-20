@@ -1,0 +1,352 @@
+{
+  "$comment": "Verbatim mirror. `md5` is as supplied by Figshare and is recorded for transport integrity only — it is not evidence of authenticity. Verify against `sha256`, which was computed locally from the downloaded bytes.",
+  "repo": "faber-2021-cardiac-volumes",
+  "title": "Faber et al. 2021 — segmented AmiraMesh volumes, ten Carnegie stages",
+  "doi": "10.6084/m9.figshare.13378742",
+  "licence": "CC BY 4.0",
+  "spdxLicenceId": "CC-BY-4.0",
+  "attribution": "Faber, Jan Willem; Hagoort, Jaco; Moorman, Antoon F. M.; Christoffels, Vincent M.; Jensen, Bjarke",
+  "citation": "Faber JW, Hagoort J, Moorman AFM, Christoffels VM, Jensen B (2021). Quantified growth of the human embryonic heart. Biology Open.",
+  "modified": false,
+  "mirroredAt": "2026-11-20T20:31:32.963Z",
+  "sourceArticles": [
+    {
+      "id": 13378742,
+      "doi": "10.6084/m9.figshare.13378742.v1",
+      "title": "Amira data and label files and 3D pdfs",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/CS10-EMB-013-cTnI.am",
+      "originalName": "CS10-EMB-013-cTnI.am",
+      "articleId": 13378742,
+      "size": 207109177,
+      "sha256": "ace99f0aca85deb7044a5fe8efeb83e762e0d7c71ded4d6d5c2e0f5391abb8b3",
+      "md5": "0e2867a54bbd910413d9d7c8645bdb21",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776935"
+    },
+    {
+      "path": "data/CS11-EMB-071-labels.am",
+      "originalName": "CS11-EMB-071-labels.am",
+      "articleId": 13378742,
+      "size": 8823898,
+      "sha256": "218d2ba02f056297c28027670c4ed9fd645bfd13232da00b54344241762f716b",
+      "md5": "7c9c9a7e52f32877868af6c1e70f24c8",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776938"
+    },
+    {
+      "path": "data/CS11-EMB-071-myomix.am",
+      "originalName": "CS11-EMB-071-myomix.am",
+      "articleId": 13378742,
+      "size": 173797609,
+      "sha256": "490cd36ac492765a7d292838b0a654499a32181baabc3f74cdd841d2277a4a30",
+      "md5": "52ca2a6b6328c65b98975670cdd4b54f",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776941"
+    },
+    {
+      "path": "data/CS12-EMB-054-labels.am",
+      "originalName": "CS12-EMB-054-labels.am",
+      "articleId": 13378742,
+      "size": 11116339,
+      "sha256": "b1d5a66c8fa17d4d0e09f9ee16fa45a3313e8070bb0dcecd9350ad5940dab177",
+      "md5": "c358a96e33ced1e5441ce0b221160604",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776944"
+    },
+    {
+      "path": "data/CS12-EMB-054-myomix.am",
+      "originalName": "CS12-EMB-054-myomix.am",
+      "articleId": 13378742,
+      "size": 201529191,
+      "sha256": "e29f21fa70578e40eb9bfb362bad4ae969dd8dda95c66f1a5ab666c26fe8ae56",
+      "md5": "0a526b821c7f9376037917dee2a454c5",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776947"
+    },
+    {
+      "path": "data/CS13-EMB-028-labels.am",
+      "originalName": "CS13-EMB-028-labels.am",
+      "articleId": 13378742,
+      "size": 5828880,
+      "sha256": "0eb490983fb8002d3ea56d7bba4c578f01c022ab993b82a8a513266e209e0e93",
+      "md5": "7788c70253bce45035c974d22bb7a18e",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776950"
+    },
+    {
+      "path": "data/CS13-EMB-028-myomix.am",
+      "originalName": "CS13-EMB-028-myomix.am",
+      "articleId": 13378742,
+      "size": 268717884,
+      "sha256": "30e264bce7e511fab39b0befb65efecce3005e04b506fbe57d4e4088e0aa8f7a",
+      "md5": "fc29b17dfb526152d35fcf657ac9e281",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776953"
+    },
+    {
+      "path": "data/CS14-EMB-026-cTnI.am",
+      "originalName": "CS14-EMB-026-cTnI.am",
+      "articleId": 13378742,
+      "size": 86894314,
+      "sha256": "2b6bd46e78bbe47882dba9e535793be5d1a7c31ebb478e6768139e1bfcea659f",
+      "md5": "ffe70d8c0fac4932e78226d1cf787856",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776956"
+    },
+    {
+      "path": "data/CS14-EMB-026-labels.am",
+      "originalName": "CS14-EMB-026-labels.am",
+      "articleId": 13378742,
+      "size": 7072811,
+      "sha256": "186b73594667639a1a26d598001c6276d0ec7c32aafd403fc753d86622389183",
+      "md5": "e3cd88b011ba9421018bf1f2a11de2a1",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776959"
+    },
+    {
+      "path": "data/CS15-EMB-059-cTnI.am",
+      "originalName": "CS15-EMB-059-cTnI.am",
+      "articleId": 13378742,
+      "size": 82549790,
+      "sha256": "f537eadce632d0f41cd1fd446a080c0730c3ca41cc56fc37f80f16cf2606d59c",
+      "md5": "40ad4dd2939abaa5a5e3c8882e3f28c4",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776962"
+    },
+    {
+      "path": "data/CS15-EMB-059-labels.am",
+      "originalName": "CS15-EMB-059-labels.am",
+      "articleId": 13378742,
+      "size": 6193341,
+      "sha256": "090906309c2deec896ed88495fa1efd9327240c4ef388dc14d8401316a04058b",
+      "md5": "743cab1f9a0cad75dbc031db57b19c83",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776965"
+    },
+    {
+      "path": "data/CS16-EMB-078-cTnI.am",
+      "originalName": "CS16-EMB-078-cTnI.am",
+      "articleId": 13378742,
+      "size": 173281947,
+      "sha256": "aa5b85ac50142366b82486c2ead182bf15f1695816a406f0f9dd8c0bcbf6d355",
+      "md5": "717d46eaed5055904ff361af4a2edabe",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776968"
+    },
+    {
+      "path": "data/CS16-EMB-078-labels.am",
+      "originalName": "CS16-EMB-078-labels.am",
+      "articleId": 13378742,
+      "size": 5362159,
+      "sha256": "f2c8fc3449bd10cfaa975170cbd2557c776a4f3781f6d7f0d76ddbfbab74bc37",
+      "md5": "5df06fa1054dd9029133a040e7b476e8",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776971"
+    },
+    {
+      "path": "data/CS18-EMB-006-cTnI.am",
+      "originalName": "CS18-EMB-006-cTnI.am",
+      "articleId": 13378742,
+      "size": 226730394,
+      "sha256": "5d9e3447c69716024f4c9fe39df0bdc524c8db808e70358aeb2ca6c081ba92e4",
+      "md5": "3e1fbec9c7f68fa343715d41e88bd8e9",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776974"
+    },
+    {
+      "path": "data/CS18-EMB-006-labels.am",
+      "originalName": "CS18-EMB-006-labels.am",
+      "articleId": 13378742,
+      "size": 17850517,
+      "sha256": "5b07aa265a6ca1ab0c8ff3705ec37700291f91e96a0b3441afa410c56447ef52",
+      "md5": "fefaa504e6d843509efb6cdfbfc16a7d",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776980"
+    },
+    {
+      "path": "data/CS20-EMB-005-cTnI.am",
+      "originalName": "CS20-EMB-005-cTnI.am",
+      "articleId": 13378742,
+      "size": 323287992,
+      "sha256": "4f4f08d1ca2c174c1dbb51a7e4cd679db8abeacc21c2dee01fac1cd908b3f319",
+      "md5": "5fb53eadb0097e9ecf8ad9f8ebb19aa4",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776983"
+    },
+    {
+      "path": "data/CS20-EMB-005-labels.am",
+      "originalName": "CS20-EMB-005-labels.am",
+      "articleId": 13378742,
+      "size": 8575183,
+      "sha256": "2d27173adc5b72233e8fc70562a3e369890b5bed18db2d0fff7aac097e5953c8",
+      "md5": "3e879dfbb34eec0eeba2cb1abc0eabda",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776986"
+    },
+    {
+      "path": "data/CS23-EMB-084-cTnI.am",
+      "originalName": "CS23-EMB-084-cTnI.am",
+      "articleId": 13378742,
+      "size": 283437090,
+      "sha256": "5f8e84cf3283f131a75dfa9c6f610954171ded8a822a7b807b46cca957e2f2f9",
+      "md5": "89721b92d2f75c5a724cebe75324d985",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776995"
+    },
+    {
+      "path": "data/CS23-EMB-084-labels.am",
+      "originalName": "CS23-EMB-084-labels.am",
+      "articleId": 13378742,
+      "size": 10031177,
+      "sha256": "7376b2db5be7bec8c6358ef76fa0bbe1c3b02fe4a8d5ed2ed4d5fbfd5aff9c82",
+      "md5": "acc16010c4b3d1a2cc45b9e9d8d7fcd7",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25776998"
+    },
+    {
+      "path": "data/CS10-EMB-013_labels.am",
+      "originalName": "CS10-EMB-013_labels.am",
+      "articleId": 13378742,
+      "size": 3681606,
+      "sha256": "399c8bb6168ed2e47fa128e5bf03c088e436bd5ea9ad9b4e585bbdd77e57aa56",
+      "md5": "b5d28bdd91d3621963f0f8c941fb4c6c",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25777001"
+    },
+    {
+      "path": "data/CS15-EMB-059.pdf",
+      "originalName": "CS15-EMB-059.pdf",
+      "articleId": 13378742,
+      "size": 12046064,
+      "sha256": "5f9c82eed420cbde02e762c2baa917cf25f7000d89aadc193d4e3ae743cdf99b",
+      "md5": "f7e7e0d26f137bba0990b97157de169a",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808144"
+    },
+    {
+      "path": "data/CS16-EMB-078.pdf",
+      "originalName": "CS16-EMB-078.pdf",
+      "articleId": 13378742,
+      "size": 11943060,
+      "sha256": "60383bf91565a0facb08e93b71f0bf72995d781d74f554d489cffc57c67b244d",
+      "md5": "aaa5d8b5c1d58fefc07c71ec1e371d21",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808147"
+    },
+    {
+      "path": "data/CS18-EMB-006.pdf",
+      "originalName": "CS18-EMB-006.pdf",
+      "articleId": 13378742,
+      "size": 12015596,
+      "sha256": "743add84fc2975b81f05fb4051c717631d8a5d201ccad2df8f80da9332d8fdcb",
+      "md5": "196878cb5cd17b107c11a3c7e3eb1c88",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808150"
+    },
+    {
+      "path": "data/CS20-EMB-005.pdf",
+      "originalName": "CS20-EMB-005.pdf",
+      "articleId": 13378742,
+      "size": 12279975,
+      "sha256": "cea29edd0b7dfdd088aacb847944b33d9348d2e109cbf9d9278004617ce3cef0",
+      "md5": "c76bc61e8d90967a0ae60c7ddd400ccb",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808156"
+    },
+    {
+      "path": "data/CS23-EMB-084.pdf",
+      "originalName": "CS23-EMB-084.pdf",
+      "articleId": 13378742,
+      "size": 12080889,
+      "sha256": "297a9ecb0260d9082e28f7e4d869d038d664874405f22778d455e4903cb8b2ac",
+      "md5": "6f9e441ea625c629e95740642973746a",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808159"
+    },
+    {
+      "path": "data/CS10-EMB-013.pdf",
+      "originalName": "CS10-EMB-013.pdf",
+      "articleId": 13378742,
+      "size": 7534245,
+      "sha256": "6f85efa81e2d8734c54fca43f91067b3c5d72e2f18159006b63b9544df383047",
+      "md5": "d953a4683870cc43c721d473e81a067a",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808162"
+    },
+    {
+      "path": "data/CS11-EMB-071.pdf",
+      "originalName": "CS11-EMB-071.pdf",
+      "articleId": 13378742,
+      "size": 7537055,
+      "sha256": "9affb4d0ed57c48dc7bb3aafe13ed1ce8599001a92e53fee5fad460b66b41420",
+      "md5": "aae51ea2a7cd43a4615ef4b46277d9fe",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808165"
+    },
+    {
+      "path": "data/CS12-EMB-054.pdf",
+      "originalName": "CS12-EMB-054.pdf",
+      "articleId": 13378742,
+      "size": 7673062,
+      "sha256": "cab0ddc201ee80ed0cddf1c569448ad94145abc35d220e68c4494df195f6baff",
+      "md5": "f851659295a6d75929ec4c6e416790a2",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808168"
+    },
+    {
+      "path": "data/CS13-EMB-028.pdf",
+      "originalName": "CS13-EMB-028.pdf",
+      "articleId": 13378742,
+      "size": 10745605,
+      "sha256": "57ee938813effe2892da7a5f4faba71784754f9a6c77ab67ece62e1ce06d1c93",
+      "md5": "4d16418936ae3ce15a3d82e9cf0e5ff0",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808171"
+    },
+    {
+      "path": "data/CS14-EMB-026.pdf",
+      "originalName": "CS14-EMB-026.pdf",
+      "articleId": 13378742,
+      "size": 11333507,
+      "sha256": "51f1285b00ab5246946c2ca369eb94e6d9146e84370348df3eb3463a7edc9952",
+      "md5": "d66843facb30e78b2280fab77e792754",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://ndownloader.figshare.com/files/25808174"
+    }
+  ]
+}
