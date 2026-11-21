@@ -18,7 +18,7 @@ Labelled volumes for Carnegie stages 10, 11, 12, 13, 14, 15, 16, 18, 20 and 23, 
 
 ## Provenance of the material
 
-The depositors state that the specimens were left-over material from induced abortions on social indication at Tartu University Hospital, Estonia, collected with the permission of the relevant medical ethics committees, and that no informed consent was obtained for this particular re-use because the series had been published previously. Anyone building on this should know it, which is why it is in the README of the mirror and not only in a document one directory away.
+The depositors state that the specimens were left-over material from induced abortions on social indication at Tartu University Hospital, Estonia, collected with the permission of the relevant medical ethics committees, and that no informed consent was obtained for this particular re-use because the series had been published previously.
 
 ## Contents
 
@@ -83,4 +83,4 @@ python3 -c "import json,hashlib,pathlib;m=json.load(open('MANIFEST.json'));[prin
 
 ---
 
-Mirrored 2026-11-20 by `tools/mirror.ts` in the atlas repository, which re-verifies the licence of every article against the live Figshare metadata before downloading anything and aborts on a mismatch.
+Mirrored 2026-11-21 by `tools/mirror.ts` in the atlas repository, which re-verifies the licence of every article against the live Figshare metadata before downloading anything and aborts on a mismatch.
