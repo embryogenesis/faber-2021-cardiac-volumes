@@ -14,7 +14,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [`
 
 ## What this is
 
-Labelled volumes for Carnegie stages 10, 11, 12, 13, 14, 15, 16, 18, 20 and 23, with an interactive 3D-PDF for each. The find that unblocked roadmap item 1: the only permissively licensed segmented Carnegie series this project has located. Cardiac-focused, which is a gift rather than a limitation — compact and trabecular myocardium are segmented separately, which is exactly the architecture behind the ventricular twist the atlas wants, and the heart is what its eight-parameter morph most conspicuously lacks.
+Segmented volumes of the human embryonic heart at Carnegie stages 10, 11, 12, 13, 14, 15, 16, 18, 20 and 23, with an interactive 3D-PDF for each stage. Each stage provides a grey-value volume, a label volume, and in most cases an immunostained channel (cTnI or a myosin mixture). Compact and trabecular myocardium are segmented as separate labels, which supports measurement of ventricular wall architecture across stages.
 
 ## Provenance of the material
 
@@ -69,10 +69,10 @@ Full checksums, original filenames and the source article id for every file are 
 
 ## Notes for anyone using this
 
-- Format is AmiraMesh: an ASCII header (`# AmiraMesh BINARY-LITTLE-ENDIAN 2.1`) followed by one byte per voxel. Documented and trivially parsed, unlike anything else in this space.
-- The CS13 label file names 25 real anatomical structures; the remaining ~195 entries are per-slice registration markers rather than anatomy. Do not treat the label count as a structure count.
+- Format is AmiraMesh: an ASCII header (`# AmiraMesh BINARY-LITTLE-ENDIAN 2.1`) giving the lattice dimensions, followed by one byte per voxel in binary little-endian order.
+- The CS13 label file declares roughly 220 label entries, of which 25 name anatomical structures; the remainder are per-slice registration markers. The label count is therefore not a structure count.
 - Eight of the thirty files exceed GitHub's 100 MB hard limit, from 173 MB to 323 MB, so those ship as Release assets rather than in the tree; the other 22 are committed normally. See README.
-- Grid for CS13 is 1372 x 1020 x 192. Expect ~270 MB per uncompressed volume.
+- Lattice dimensions for CS13 are 1372 x 1020 x 192, giving ~269 MB uncompressed at one byte per voxel. Other stages are comparable.
 
 ## Verifying the mirror
 
@@ -83,4 +83,4 @@ python3 -c "import json,hashlib,pathlib;m=json.load(open('MANIFEST.json'));[prin
 
 ---
 
-Mirrored 2026-11-21 by `tools/mirror.ts` in the atlas repository, which re-verifies the licence of every article against the live Figshare metadata before downloading anything and aborts on a mismatch.
+Mirrored 2026-11-21 by `tools/mirror.ts` from [embryogenesis](https://github.com/embryogenesis/embryogenesis). The licence of each source article was checked against the live Figshare metadata before download.
